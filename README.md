@@ -45,13 +45,11 @@ Untuk Tugasan ini , Cuma masukkan "<b>Ya</b>" Pada Kotak Jawapan
 
 - ### Jalur Gemilang : Cordini 🧩
 
-![2](insert gambar here)
-
 Untuk Tugasan ini, memerlukan <a href="https://github.com/BetterDiscord/Installer">Better Discord</a> & <a href="https://github.com/JustOptimize/ShowHiddenChannels">ShowHiddenChannels</a>
 
 Simply Follow Instruction Installation pada Github BetterDiscord dan ShowHiddenChannels 
 
-![3](gambar)
+![3](images/cordini.png?raw=true)
 
 Kemudian Pada Discord Server 3108 akan terpapar Hidden Channel pada Server tersebut seperti Bendera Percuma
 Untuk mendapatkan access, React pada message di Channel ```#get-role```,
@@ -80,22 +78,22 @@ Values : 'j','b','a','c','m','n','i','p','o','q','r','t','x','z','v','s','u','y'
 ```
 Memandangkan ianya adalah Python Script, kita complete kan code untuk dapat kan flag
 
-![5](gambar)
+![5](images/Mesej-Rahsia-code.png?raw=true)
 
 The Output Will Shown like this 
 
-![5](gambar)
+![5](images/Mesej-Rahsia-sc-Flag.PNG?raw=true)
 
 Jadi flag kita : ```3108{substitution_cipher_text}```
 
 ## Kelantan
 - ### Kelantan : Sultan Yang Hilang
 
-![7](gambar)
+![7](images/Klntn-Sultan-yg-Hilang-QB.PNG?raw=true)
 
 Untuk tugasan ini, kita diberikan [pautan](https://f2add8dd3a.bahterasiber.my/) yang memaparkan 12 Sultan yang pernah memerintah dari tahun ```1763``` Sehingga ```2010```
 
-![8](gambar)
+![8](images/Klntn-Sultan-yg-Hilang-web.PNG?raw=true)
 
 Notice theres Api Endpoint and Number on the ```const sultanYears``` selepas View-Source
 
@@ -154,7 +152,7 @@ Sultan Ahmad Tengah ibni Long Senik Mulut Merah memerintah pada tahun 1886 sehin
 
 Put the ```1890``` in the directory shows nothing, but put ```1889``` will give us a Flag
 
-![9](gambar)
+![9](images/Klntn-Sultan-yg-Hilang-Flag.PNG?raw=true)
 
 Flag : 3108{putera_sulong_Sultan_Ahmad}
 
@@ -163,7 +161,7 @@ Flag : 3108{putera_sulong_Sultan_Ahmad}
 
 Tugasan kalini dibekalkan dengan [pautan](https://9798fd3cc4.bahterasiber.my/) lead to a website beserta soalan.
 
-![10](gambar)
+![10](images/Jhr-web.PNG?raw=true)
 
 do some research tentang siapa yang membunuh Sultan Mahmud pada tahun 1699, The research lead to ```Laksamana Bentan```, after that you will be given Cipher Text
 
@@ -180,7 +178,7 @@ Flag : 3108{700ef4a79959615b67ea5297e725c06e}
 
 Tugasan ini dibekalkan dengan satu compressed file .rar yang memerlukan kita untuk extract namun ada password before dapat extract.
 
-![12](gambar)
+![12](images/Melaka-rar-file.PNG?raw=true)
 
 Berpandukan clue yang ada pada soalan, buat sedikit research akan mendapatkan 2 Pelaku yang meracun Perigi tersebut
 
@@ -195,11 +193,11 @@ Flag : 3108{th3_k1ngs_w3ll_st4ys_0n}
 
 - ### Melaka : Pahlawan Lagenda 🕵🏻‍♀️
 
-Tugasan ini kita diberikan satu text file bernama ```Tauh.flag.txt```,Lets try using [grep command](https://www.geeksforgeeks.org/grep-command-in-unixlinux/) untuk cari words ```3108```
+Tugasan ini kita diberikan satu text file bernama ```Tuah.flag.txt```,Lets try using [grep command](https://www.geeksforgeeks.org/grep-command-in-unixlinux/) untuk cari words ```3108```
 
 > grep -i "3108" Tuah.flag.txt
 
-![13](gambar)
+![13](images/Melaka-Flag.PNG?raw=true)
 
 Flag : 3108{gr3p_15_@w3s0m3_l4ks4m4n4}
 
@@ -212,7 +210,7 @@ Start tukar-tukar extension seperti ```bash .txt, .png, .jpg, .jpeg```
 
 Image Extension tidak dapat view, so could be .txt , after tukar menjadi ```.txt``` file tersebut akan jadi begini : 
 
-![14](gambar)
+![14](images/srwk-file.PNG?raw=true)
 
 hmmm Looks Suspicious, power up my terminal then using [strings](https://www.howtogeek.com/427805/how-to-use-the-strings-command-on-linux/) to view the file , output shown like this
 > strings Makanan.txt > output.txt
@@ -221,7 +219,7 @@ The ```>``` akan letakkan output strings Makanan.txt kedalam file output.txt
 
 buka file output.txt , tekan ```Ctrl+f``` cari ```3108``` then you will get the flag or use grep command also work
 
-![17](gambar)
+![17](images/srwk-Flag.PNG?raw=true)
 
 Flag : 3108{L4KS4_S4R4W4K}
 
@@ -247,7 +245,7 @@ Tugasan ini kita diberikan satu file text bernama Sumber_Sekunder.txt
 
 Content File tersebut telah Di encrypt dengan Caesar Cipher dengan rotation shift 13 atau di beri nama [Rot-13](https://www.geeksforgeeks.org/rot13-cipher/)
 
-![19](gambar)
+![19](images/prk-file.PNG?raw=true)
 
 Notice Ada number dan perkataan ```3108x3o4atx1gnac4uy4j4a```, Copy this one 
 
@@ -265,7 +263,7 @@ Flag : 3108{k3b4ngk1tanp4hl4w4n}
 
 Kita Diberikan Gambar yang mengandungi perkataan loghat Kedah dan [pautan](https://7e6d97fe1f.bahterasiber.my/) Wordle Bahasa Utara
 
-![20](gambar)
+![20](images/note_pad_utaqa.jpg)
 
 Refer gambar yang diberikan , perasan ada 5 kotak setiap row pada website yang diberikan, jadi kita asingkan perkataan pada gambar yang hanya ada 5 huruf dalam perkataan tersebut
 
@@ -297,7 +295,7 @@ Tugasan ini kita diberikan sequence of numbers ```777 33 6 22 2 88_6 666 7777 8_
 
 Pergi ke [Multi-Tap Phone Cipher Online Decoder](https://www.dcode.fr/multitap-abc-cipher)
 
-![22](gambar)
+![22](images/n9-Flag.PNG?raw=true)
 
 The Output shown like this REMBAUMOSTWANTED
 
