@@ -4,7 +4,7 @@
 
 - [**Jalur Gemilang**](#Jalur-Gemilang) <img src="https://upload.wikimedia.org/wikipedia/commons/6/66/Flag_of_Malaysia.svg" height="20px">
     - [**3108**](#jalur-gemilang--3108)
-    - [**Cordini 🧩**](#jalur-gemilang--Cordini-🧩)
+    - [**Cordini 🧩**](#jalur-gemilang--Cordini-)
 
 - [**Selangor**](#Selangor) <img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Flag_of_Selangor.svg" height="20px">
     - [**Mesej Rahsia**](#selangor--Mesej-Rahsia)
@@ -13,26 +13,26 @@
     - [**Sultan Yang Hilang**](#kelantan--Sultan-Yang-Hilang)
     
 - [**Johor**](#Johor) <img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Flag_of_Johor.svg" height="20px">
-    - [**zZzZz 🕸️+🧮**](#johor--zZzZz-🕸️+🧮)
+    - [**zZzZz 🕸️+🧮**](#johor--zZzZz-)
 
 - [**Melaka**](#Melaka) <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_Malacca.svg" height="20px">
     - [**Perigi 🔍**](#melaka--Perigi-🔍)
-    - [**Pahlawan Lagenda 🕵🏻‍♀️**](#melaka--Pahlawan-Lagenda-🕵🏻‍♀️)
+    - [**Pahlawan Lagenda 🕵🏻‍♀️**](#melaka--Pahlawan-Lagenda-)
 
 - [**Sarawak**](#sarawak) <img src="https://upload.wikimedia.org/wikipedia/commons/2/23/Flag_of_Sarawak.png" height="20px">
-    - [**Makanan Popular 🐧**](#sarawak--Makanan-Popular-🐧)
+    - [**Makanan Popular 🐧**](#sarawak--Makanan-Popular-)
     
 - [**Pulau Pinang**](#Pulau-Pinang) <img src="https://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Penang_%28Malaysia%29.svg" height="20px">
-    - [**Mamu Kasi Tau 🧩**](#pulau-pinang--Mamu-Kasi-Tau-🧩)
+    - [**Mamu Kasi Tau 🧩**](#pulau-pinang--Mamu-Kasi-Tau-)
     
 - [**Perak**](#Perak) <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Flag_of_Perak.svg/1200px-Flag_of_Perak.svg.png" height="20px">
-    - [**Pandak Lam 🧮**](#perak--Pandak-Lam-🧮)
+    - [**Pandak Lam 🧮**](#perak--Pandak-Lam-)
     
 - [**Kedah**](#Kedah) <img src="https://upload.wikimedia.org/wikipedia/commons/c/cc/Flag_of_Kedah.svg" height="20px">
     - [**Wordle Bahasa Utaqa**](#kedah--Wordle-Bahasa-Utaqa)
 
 - [**Negeri Sembilan**](#Negeri-Sembilan) <img src="https://upload.wikimedia.org/wikipedia/commons/d/db/Flag_of_Negeri_Sembilan.svg" height="20px">
-    - [**Jauh Bono Umohnyo 🧩**](#negeri-sembilan--Jauh-Bono-Umohnyo-🧩)
+    - [**Jauh Bono Umohnyo 🧩**](#negeri-sembilan--Jauh-Bono-Umohnyo-)
     
 ---------------------------------------------------------------------------
 
