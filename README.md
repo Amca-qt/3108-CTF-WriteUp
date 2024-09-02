@@ -39,7 +39,7 @@
 ## Jalur Gemilang
 - ### Jalur Gemilang : 3108
 
-![1](gambar)
+![1](images/3108.PNG?raw=true)
 
 Untuk Tugasan ini , Cuma masukkan "<b>Ya</b>" Pada Kotak Jawapan
 
