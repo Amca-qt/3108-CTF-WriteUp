@@ -13,14 +13,14 @@
     - [**Sultan Yang Hilang**](#kelantan--Sultan-Yang-Hilang)
     
 - [**Johor**](#Johor) <img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Flag_of_Johor.svg" height="20px">
-    - [**zZzZz 🕸️+🧮**](#johor--zZzZz-)
+    - [**zZzZz 🕸️+🧮**](#johor--zzzzz-%EF%B8%8F)
 
 - [**Melaka**](#Melaka) <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_Malacca.svg" height="20px">
-    - [**Perigi 🔍**](#melaka--Perigi-🔍)
-    - [**Pahlawan Lagenda 🕵🏻‍♀️**](#melaka--Pahlawan-Lagenda-)
+    - [**Perigi 🔍**](#melaka--Perigi-)
+    - [**Pahlawan Lagenda 🕵🏻‍♀️**][(#melaka--pahlawan-lagenda-%EF%B8%8F)
 
 - [**Sarawak**](#sarawak) <img src="https://upload.wikimedia.org/wikipedia/commons/2/23/Flag_of_Sarawak.png" height="20px">
-    - [**Makanan Popular 🐧**](#sarawak--Makanan-Popular-)
+    - [**Makanan Popular 🐧**](#sarawak--Makanan-Popular)
     
 - [**Pulau Pinang**](#Pulau-Pinang) <img src="https://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Penang_%28Malaysia%29.svg" height="20px">
     - [**Mamu Kasi Tau 🧩**](#pulau-pinang--Mamu-Kasi-Tau-)
@@ -29,7 +29,7 @@
     - [**Pandak Lam 🧮**](#perak--Pandak-Lam-)
     
 - [**Kedah**](#Kedah) <img src="https://upload.wikimedia.org/wikipedia/commons/c/cc/Flag_of_Kedah.svg" height="20px">
-    - [**Wordle Bahasa Utaqa**](#kedah--Wordle-Bahasa-Utaqa)
+    - [**Wordle Bahasa Utaqa**](#kedah--wordle-bahasa-utaqa-%EF%B8%8F)
 
 - [**Negeri Sembilan**](#Negeri-Sembilan) <img src="https://upload.wikimedia.org/wikipedia/commons/d/db/Flag_of_Negeri_Sembilan.svg" height="20px">
     - [**Jauh Bono Umohnyo 🧩**](#negeri-sembilan--Jauh-Bono-Umohnyo-)
@@ -85,6 +85,21 @@ The Output Will Shown like this
 ![5](images/Mesej-Rahsia-sc-Flag.PNG?raw=true)
 
 Jadi flag kita : ```3108{substitution_cipher_text}```
+
+- ### Selangor : Selangorku
+
+![6](images/selangorku-qb.png?raw=true)
+
+kita di berikan dengan [pautan](https://6654c734cc.bahterasiber.my/) yang memaparkan 403 Forbidden. try using [curl command](https://devhints.io/curl) to view the website 
+> curl https://6654c734cc.bahterasiber.my/
+
+![6](images/selangorku1.png?raw=true)
+
+use the same command to view the file given. The flag is located in the file ```hulu_selangor.html```
+
+![6](images/selangorku2.png?raw=true)
+
+Flag : 3108{S3lang0r_temp4t_kelahiran_ku}
 
 ## Kelantan
 - ### Kelantan : Sultan Yang Hilang
