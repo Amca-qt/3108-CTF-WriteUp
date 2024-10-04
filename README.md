@@ -176,7 +176,7 @@ Flag : 3108{putera_sulong_Sultan_Ahmad}
 
 Tugasan kalini dibekalkan dengan [pautan](https://9798fd3cc4.bahterasiber.my/) lead to a website beserta soalan.
 
-![10](images/Jhr-web.PNG?raw=true)
+![10](images/Jhr-Web.PNG?raw=true)
 
 do some research tentang siapa yang membunuh Sultan Mahmud pada tahun 1699, The research lead to ```Laksamana Bentan```, after that you will be given Cipher Text
 
