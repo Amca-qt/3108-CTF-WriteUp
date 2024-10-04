@@ -17,7 +17,7 @@
 
 - [**Melaka**](#Melaka) <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_Malacca.svg" height="20px">
     - [**Perigi 🔍**](#melaka--Perigi-)
-    - [**Pahlawan Lagenda 🕵🏻‍♀️**][(#melaka--pahlawan-lagenda-%EF%B8%8F)
+    - [**Pahlawan Lagenda 🕵🏻‍♀️**](#melaka--pahlawan-lagenda-%EF%B8%8F)
 
 - [**Sarawak**](#sarawak) <img src="https://upload.wikimedia.org/wikipedia/commons/2/23/Flag_of_Sarawak.png" height="20px">
     - [**Makanan Popular 🐧**](#sarawak--Makanan-Popular)
